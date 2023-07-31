@@ -1,4 +1,4 @@
-# Eleccionador-Inador (Vista realizar voto: 'Candidato')
+# Eleccionador-Inador (Vista: 'Candidato')
 instalar nodejs
 En terminal:
 cd 'ruta'
