@@ -1,11 +1,10 @@
 class CASTVOTE {
     constructor() {
+        this.Cand_ID = null;
+        this.Voter_ID = null;
+        this.TimeStamp = null;
+        this.Attribute2 = null;
     }
-
-    Cand_ID;
-    Voter_ID;
-    TimeStamp;
-    Attribute2;
 
     submitVote() {
         // TODO implement here
