@@ -19,4 +19,7 @@ Principios SOLID:
 
 Responsabilidad Unica: El código solo se preocupa por la conversión de Usuario Común a Candidato.
 Abierto-Cerrado: La lógica del formulario ya existe, por lo que para agregar otras cosas simplemente debería crearse un campo más y leerlo.
+![Contr](https://github.com/AxelSolis93/Eleccionador-Inador-copy/assets/104176510/637c07bf-4cbe-4495-b519-f512a8846e1d)
+![contr2](https://github.com/AxelSolis93/Eleccionador-Inador-copy/assets/104176510/4a0a06dc-d9e8-4c92-b4c5-7a17f3797d55)
+
 Inversión de dependencias: El código usará una conexión a la base y pasar argumentos a funciones externas para evitar ser dependiente o fusionarse con otras clases, ignorando cómo funcionan las herramientas que use.
