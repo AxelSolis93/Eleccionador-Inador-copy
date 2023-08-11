@@ -1,0 +1,37 @@
+* {
+    text-align: center;
+}
+
+.label{
+    display: inline-block;
+}
+
+.campos{
+    background-color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
+
+.loginButton{
+    color: white;
+    font-weight: 900;
+    background-color: greenyellow;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.backButton{
+    color: white;
+    font-weight: 900;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}
+
